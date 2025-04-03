@@ -1,0 +1,11 @@
+bin/
+
+# Build artifacts
+*.o
+*.obj
+*.exe
+*.out
+*.bin
+
+.vscode/
+*.code-workspace
